@@ -1,0 +1,20 @@
+{
+    "name": "chat-gpt-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "type": "module",
+    "scripts": {
+        "dev": "node javascript.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.6.2",
+        "cheerio": "^1.0.0-rc.12",
+        "crypto-js": "^4.2.0",
+        "dotenv": "^16.0.3",
+        "openai": "^4.0.0"
+    }
+}
